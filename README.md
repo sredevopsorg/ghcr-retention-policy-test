@@ -1,0 +1,1 @@
+# ghcr-retention-policy-test
